@@ -16,7 +16,8 @@ Fast Translate; bilgisayarda çalışırken, kod yazarken, makale okurken veya o
 2. **Çok Önemli:** Programın klavye kısayollarınızı her uygulamada sorunsuz algılayabilmesi için `.exe` dosyasına sağ tıklayıp **"Yönetici Olarak Çalıştır"** demeniz gerekmektedir.
 3. Arayüzden kaynak/hedef dili seçin, kendi kısayol tuşlarınızı belirleyin ve "Kaydet" butonuna basın. Uygulamayı sağ alta gizleyip işinize dönebilirsiniz!
 
-##☕ Destek Ol (Donate)
+## ☕ Destek Ol (Donate)
+
 Eğer bu program işinize yaradıysa, bana destek olmak ve yeni projeler için motive etmek isterseniz bir kahve ısmarlayabilirsiniz!
 
 [ByNoGame Destek Linkim](https://donate.bynogame.com/metehann)
