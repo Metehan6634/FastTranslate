@@ -22,6 +22,17 @@ Eğer bu program işinize yaradıysa, bana destek olmak ve yeni projeler için m
 
 [ByNoGame Destek Linkim](https://donate.bynogame.com/metehann)
 
+## 🚨 ÖNEMLİ: ANTİ-HİLE SİSTEMLERİ VE BAN RİSKİ (VALORANT, CS2 vb.)
+
+Fast Translate, oyun içinde anında çeviri yapabilmek için arka planda çok hızlı bir şekilde klavye tuşlarını (Ctrl+A, Ctrl+C, Ctrl+V) simüle eden bir altyapıyla çalışır. Program **kesinlikle bir hile (cheat) değildir**, oyun dosyalarına veya belleğine (memory) müdahale etmez.
+
+Ancak **Riot Vanguard** gibi son derece agresif çalışan anti-hile (Anti-Cheat) sistemleri, arka planda gerçekleşen bu sanal tuş vuruşlarını (makro eylemlerini) yanlışlıkla 3. parti zararlı yazılım olarak algılayabilir. 
+
+Riot Games Destek ekibi ile bizzat yapılan resmi görüşmede: *"Sadece çeviri amaçlı olsa bile Vanguard'ın dış müdahaleleri algılayıp hesabı kalıcı olarak uzaklaştırma (perma-ban) riski olduğu"* açıkça belirtilmiştir.
+
+**⚠️ BU NEDENLE:** Programı rekabetçi oyunlarda (Özellikle Valorant'ta) kullanmak **TAMAMEN KULLANICININ KENDİ SORUMLULUĞUNUZDADIR.** Geliştirici olarak, doğabilecek hesap kısıtlamalarından veya ban durumlarından hiçbir sorumluluk kabul etmiyorum. Ana hesabınızı riske atmamak adına bu durumu göz önünde bulundurun veya programı masaüstü/ofis işlemlerinizde kullanın.
+
+
 ## 💻 Geliştirici Kaynak Kodları ve Kurulum
 
 Projeyi kendi bilgisayarınızda derlemek veya geliştirmek isterseniz:
