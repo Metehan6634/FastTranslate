@@ -6,7 +6,7 @@ Fast Translate; bilgisayarda çalışırken, kod yazarken, makale okurken veya o
 
 * 🎙️ **YENİ: Sesle Çeviri (Mikrofon Modu):** Oyunun en hararetli anında klavyeyi bırakın! Sadece kısayol tuşunuza bir kez tıklayın ve konuşun. Siz susunca program sesinizi otomatik algılar, çevirir ve chat'e saniyesinde yazar.
 * ⚡ **Anında Kısayol Çevirisi:** Metni yazıp kısayola bastığınızda, program metni çevirip panonuza kopyalar ve otomatik olarak ekrana yapıştırır.
-* ⚙️ **Discord Tarzı Gelişmiş Mikrofon Testi:** Ayarlar menüsünden mikrofonunuzu seçebilir ve konuşurken yeşil barın dolduğunu izleyerek sesinizi test edebilirsiniz.
+* ⚙️ **Mikrofon Testi:** Ayarlar menüsünden mikrofonunuzu seçebilir ve konuşurken yeşil barın dolduğunu izleyerek sesinizi test edebilirsiniz.
 * 🔊 **Sesli Okuma (TTS):** Gelen yabancı dildeki bir metni çevirdiğinizde, program Windows'un yerleşik seslendirmenleri ile çeviriyi size anında okur. Hem öğrenin hem pratik yapın!
 * 👻 **Şeffaf Bildirim Ekranı:** Çevrilen metni, yaptığınız işi bölmeden ekranın alt köşesinde şeffaf bir bildirim olarak görebilirsiniz.
 * 🎨 **Modern UI & Gizlilik:** CustomTkinter ile tasarlanmış Karanlık/Aydınlık mod destekli arayüz. Tek tıkla sistem tepsisine (sağ alta) gizlenebilir ve arka planda sessizce çalışır.
