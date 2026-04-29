@@ -1,4 +1,4 @@
-# 🚀 Fast Translate v6.8
+# 🚀 Fast Translate v7.0
 
 Fast Translate; bilgisayarda çalışırken, kod yazarken, makale okurken veya oyun oynarken klavye kısayolları ve sesli komutlarla anında çeviri yapmanızı sağlayan, şeffaf arayüzlü ve sesli okuma özellikli modern bir Windows aracıdır.
 
